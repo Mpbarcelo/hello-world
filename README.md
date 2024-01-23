@@ -1,6 +1,6 @@
 # Sobre Este Repositório
 
-Este repositório foi criado como parte de um exercício prático durante as aulas com o objetivo de aprender e praticar conceitos básicos de controle de versão e utilização do GitHub. O principal elemento deste repositório é o arquivo `hello-world.js`, que contém uma implementação simples que imprime "Hello World" na tela.
+Este repositório foi criado como parte de um exercício prático durante as aulas do BOOTCAMP da Cubos Academy com o objetivo de aprender e praticar conceitos básicos de controle de versão e utilização do GitHub. O principal elemento deste repositório é o arquivo `hello-world.js`, que contém uma implementação simples que imprime "Hello World" na tela.
 
 ## Conteúdo
 
